@@ -7,6 +7,6 @@
 <title>Index JSP</title>
 </head>
 <body>
-Hello world
+Hello world, my name is Yang
 </body>
 </html>
