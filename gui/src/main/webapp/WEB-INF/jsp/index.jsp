@@ -7,6 +7,6 @@
 <title>Index JSP</title>
 </head>
 <body>
-Hello world, my name is Yang
+Hello world, my name is Liu Yang. Test dynamic refresh.
 </body>
 </html>
